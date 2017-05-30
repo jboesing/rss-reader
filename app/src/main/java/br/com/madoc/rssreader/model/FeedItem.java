@@ -32,6 +32,7 @@ public class FeedItem extends SugarRecord implements Serializable {
     @Element(name = "pubDate", required = false)
     private String pubDate;
 
+    // TODO: 29/05/2017 search a better approach to get some thumbnail  
     @Path(value = "media:thumbnail")
     @Attribute(name = "url", required = false)
     private String thumbnail;
