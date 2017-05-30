@@ -1,8 +1,15 @@
 <resources>
-    <string name="app_name">RSSReader</string>
+    <string name="app_name">RSS Reader</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="prompt_add_rss_title">+RSS</string>
+    <string name="add">Adicionar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="description">Descrição</string>
+    <string name="url">URL do feed</string>
+    <string name="without_feeds">Ainda não foi adicionado nenhum feed RSS.</string>
+    <string name="error_loading_feed">Ocorreu um erro ao carregar esse feed.</string>
 </resources>
